@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/SGI-CAPP-AT2/Markdown_workspace/blob/main/public/assets/logo.512.png?raw=true"/>
+<img height="90px" src="https://github.com/SGI-CAPP-AT2/Markdown_workspace/blob/main/public/assets/logo.512.png?raw=true"/>
 </p>
 
 
